@@ -1,3 +1,8 @@
+/*
+ * Author: Justin Duhaime
+ * Course: COP 4610 Opperating Systems
+ */
+
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>

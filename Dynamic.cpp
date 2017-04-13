@@ -8,10 +8,8 @@ using namespace std;
 void lcs(string, string, vector<vector<int> >&, vector<vector<int> >&);
 void print(vector<vector<int> >&, string, int, int);
 
+// DEBUG
 void printv(vector<vector<int> > b, int a, int c) 
-/* 
-	debugging function to print contents of a given double vector
-*/
 {
 	cout << "PRINTING" << endl;
 
