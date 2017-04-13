@@ -1,4 +1,4 @@
-Disclaimer: Some of the files and projects here were written months to up to a year and a half ago,
+Disclaimer: Some of the files and projects here were written weeks to up to a year and a half ago,
 	as such I believe I have improved greatly in code documentation and following general 
 	coding guidelines.
 
